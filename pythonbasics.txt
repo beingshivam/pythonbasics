@@ -1,0 +1,3 @@
+1. This repository consist of some basic codes.
+2. The codes are written in python(3.5). 
+3. Go through the codes to get your basics clear.
