@@ -1,0 +1,11 @@
+  198  cd helloworld.py
+  199  cat helloworld.py
+  200  python helloworld.py
+  201  history | tail -10
+  202  git status
+  203  git add helloworld.py
+  204  git commit -m "added helloworld.py"
+  205  git push
+  206  touch initial_commands.txt
+  207  history | tail -10
+
